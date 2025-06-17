@@ -1,4 +1,4 @@
-# Master's Thesis: Pschological Effects of Open Water Sports
+# Master's Thesis: Psychological Effects of Open Water Sports
 
 ### Note:
 This GitHub repository is as a supplementation for my master's thesis. Additional files such as the data used for this work can be retrieved from the repository.   
